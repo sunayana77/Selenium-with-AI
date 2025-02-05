@@ -1,0 +1,3 @@
+element, tag, id, type, class, name, aria-autocomplete, title, href, text, value, aria-label
+password, input, userpassword, password, form-control, password, None, None, None, None, None, None
+click, button, None, submit, btn btn-dark submit-btn, None, None, None, None, 'login', None, None 
