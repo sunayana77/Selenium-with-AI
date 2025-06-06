@@ -10,6 +10,7 @@ This repository demonstrates Selenium automation enhanced with machine learning 
 - **AI-Powered Element Location**: Random Forest model for dynamic XPath handling
 
 - `selenium.py`: Basic Selenium implementation (reference)
-  - `model.py`: Random Forest implementation
-  - `feature_extractor.py`: Element attribute extraction
+  - `rf.py`: Random Forest implementation
+  - `model.py`: Self Healing and Feature extraction
+  
  
