@@ -19,14 +19,14 @@ driver.get(url)
 
 def EnterUserName(driver):
         element_email = driver.find_element(By.XPATH, "//input[@name='email']")
-        element_email.send_keys("poudelsunayana@gmail.com") 
+        element_email.send_keys("your@gmail.com") 
         print("email done")
 
        
 
 def EnterPassword(driver):
         element_password = driver.find_element(By.XPATH, "//input[@name='password']")
-        element_password.send_keys("Susuna123@")  
+        element_password.send_keys("yourpassword")  
         print("password done")
 
 def ClickOnSignIn(driver):
